@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Regal工具集</Name>
+    <Assembly>C:\Users\Regal\source\repos\RegalTestTools\RegalTestTools\bin\Debug\RegalTestTools.dll</Assembly>
+    <ClientId>ba95c785-a837-4ec4-9cf6-81061bcd1f7f</ClientId>
+    <FullClassName>RegalTestTools.Ribbon</FullClassName>
+    <VendorId>RTTS</VendorId>
+    <VendorDescription>Regal工具集，仅供个人测试学习使用！联系QQ:7766164</VendorDescription>
+  </AddIn>
+</RevitAddIns>
